@@ -26,5 +26,5 @@ The portfolio you submit needs to contain the following:
 
 ## log:
 - 2022-10-18 created github account with student id
-- 2022-10-18 learnt different coding methods using mark down
+- 2022-10-18 learnt different coding methods using mark down. created new repositories for notes.
 - 2022-10-18 started to think about main question. data, currency, politics, capitalism
