@@ -22,9 +22,9 @@ The portfolio you submit needs to contain the following:
 - research digital idendities
 - research exstentential crisis
 - study mark scheme
-- create main question/hypothesis
+- create research question/hypothesis
 
 ## log:
 - 2022-10-18 created github account with student id
 - 2022-10-18 learnt different coding methods using mark down. created new repositories for notes.
-- 2022-10-18 started to think about main question. data, currency, politics, capitalism
+- 2022-10-18 started to think about research question/hypothesis. data, currency, politics, capitalism
