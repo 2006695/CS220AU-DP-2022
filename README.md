@@ -18,5 +18,8 @@ The portfolio you submit needs to contain the following:
 2. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
 3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
 
-
-
+to do:
+research digital idendities
+research exstentential crisis
+study mark scheme
+create main question/hypothesis
