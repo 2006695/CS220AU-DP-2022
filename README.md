@@ -23,7 +23,7 @@ The portfolio you submit needs to contain the following:
 - research exstentential crisis
 - create research question/hypothesis
 - research zero day
--
+- watch documentary recommended 
 
 ## log:
 - 2022-10-18 created github account with student id
