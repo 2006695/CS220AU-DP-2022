@@ -23,8 +23,11 @@ The portfolio you submit needs to contain the following:
 - research exstentential crisis
 - study mark scheme
 - create research question/hypothesis
+- research zero day
 
 ## log:
 - 2022-10-18 created github account with student id
 - 2022-10-18 learnt different coding methods using mark down. created new repositories for notes.
 - 2022-10-18 started to think about research question/hypothesis. data, currency, politics, capitalism
+- 2022-11-01 discussed ideas about research question with cohort and in pairs.
+- 2022-11-01 thought about research question. data as currency, could this sale of data and accesibility into people's lives lead to extenstential crisis. e.g war, nuclear threat.
