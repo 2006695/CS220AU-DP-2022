@@ -21,9 +21,9 @@ The portfolio you submit needs to contain the following:
 ## to do:
 - research digital idendities
 - research exstentential crisis
-- study mark scheme
 - create research question/hypothesis
 - research zero day
+-
 
 ## log:
 - 2022-10-18 created github account with student id
@@ -31,3 +31,5 @@ The portfolio you submit needs to contain the following:
 - 2022-10-18 started to think about research question/hypothesis. data, currency, politics, capitalism
 - 2022-11-01 discussed ideas about research question with cohort and in pairs.
 - 2022-11-01 thought about research question. data as currency, could this sale of data and accesibility into people's lives lead to extenstential crisis. e.g war, nuclear threat.
+- 2022-11-01 studied mark scheme and sample essays on digital identities 
+- 2022-11-01 discussed format of website. thought about different ways to present an essay on a website. e.g different pages/tabs, hyperlinks.
