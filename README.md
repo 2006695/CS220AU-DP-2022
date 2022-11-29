@@ -19,11 +19,11 @@ The portfolio you submit needs to contain the following:
 3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
 
 ## to do:
-- research digital idendities
-- research exstentential crisis
-- create research question/hypothesis
-- research zero day
+- Interview advertising consultant
+- research link between digital identity, survaillance capitalism and suicide/self-harm
+- research digital totalitarianism
 - watch documentary recommended 
+- research cambridge analytica and how survaillance capitalism can lead to political control
 
 ## log:
 - 2022-10-18 created github account with student id
@@ -34,3 +34,9 @@ The portfolio you submit needs to contain the following:
 - 2022-11-01 studied mark scheme and sample essays on digital identities 
 - 2022-11-01 discussed format of website. thought about different ways to present an essay on a website. e.g different pages/tabs, hyperlinks.
 - 2022-11-08 thought about research question, 'is the aquisition of personal data an extestential threat?'
+- 2022-11-24 watch social dilemma documentary
+- 2022-11-26 created v/r map
+- 2022-11-28 researched PII and the use of cookies on the internet
+- 2022-11-28 read Nick Bostram's research paper on extestential risks
+- 2022-11-28 built presentation of progress so far
+- 2022-11-28
