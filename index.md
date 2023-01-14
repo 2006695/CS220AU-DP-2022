@@ -1,4 +1,4 @@
-# Data- The New Currency
+# Data- The New Oil
 Can the increased adoption of digital identities enable the control and manipulation of personal data by powerful actors, and contribute to an existential threat to human rights and free-will on a global scale
 
 ## Abstract
