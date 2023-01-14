@@ -1,5 +1,8 @@
 # Data- The New Currency
-Will the growing use of a digital identity alongside an increasing demand for personal data to access the internet become an existential threat?
+Can the increased adoption of digital identities enable the control and manipulation of personal data by powerful actors, and contribute to an existential threat to human rights and free-will on a global scale
+
+## Abstract
+- It is almost impossible to function in the modern world without the use of the internet. This has led to the creation of large digital identities, through the use of different websites who track that use through digital surveillance. The amount of information now available online about an individual had been commodified by corporations who aim to use it to control and manipulate people. If it continues in the same way, this manipulation will lead to the removal of humanity’s free-will, posing an existential threat.
 
 ## Table of Contents
 
@@ -15,11 +18,11 @@ Will the growing use of a digital identity alongside an increasing demand for pe
 
 ### 02-Definitions:
 
-Data surveillance: Includes overt direct collection, covert direct collection and covert indirect collection to take information from consumers whenever they are on the internet. Overt is data we willingly give a corporation we are interacting with. Covert is when we are directly interacting and they use cookies to take extra information. Covert indirect is when we’re on a completely different site and they use cookies to track us and share these with a third party. 
+- Data surveillance: Includes overt direct collection, covert direct collection and covert indirect collection to take information from consumers whenever they are on the internet. Overt is data we willingly give a corporation we are interacting with. Covert is when we are directly interacting and they use cookies to take extra information. Covert indirect is when we’re on a completely different site and they use cookies to track us and share these with a third party. 
 
-Digital identities: The sum of all the digitally available information about us. Including information such as, name, DOB, address, email address and online habits.  
+- Digital identities: The sum of all the digitally available information about us. Including information such as, name, DOB, address, email address and online habits.  
 
-Existential threat and how we will be looking at it in this context: ‘An existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the premature and drastic destruction of its potential desirable future development.’  In this context we will be looking at how manipulation of online data can be used to ‘tame’ human beings and how this is a drastic destruction of humanities potential.
+- Existential threat and how we will be looking at it in this context: ‘An existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the premature and drastic destruction of its potential desirable future development.’  In this context we will be looking at how manipulation of online data can be used to ‘tame’ human beings and how this is a drastic destruction of humanities potential.
 
 
 ### 03-The Growth of Digital Identities
