@@ -13,6 +13,8 @@ Can the increased adoption of digital identities enable the control and manipula
 - 05 [Existential Threat?](#05-Existential-Threat)
 - 06 [Conclusion](#06-Conclusion)
 
+- [Facebook](https://www.facebook.com)
+
 ### 01-Introduction
 - this essay sets out to critically investigate the relationship between the growing reliance of digital identities and the potential of it leading to an existential threat to humanity, by causing the destruction of a desirable future. the desirable future that will be referred to throughout this essay is one where humans have free will to make their own choices and decide their own future. this future is put at risk by the practice of data surveillance and how it has led to a surveillance based economy, where consumer information is the commodity that must be given in order to access the internet.  by the end of this essay, it will be possible to offer a critical evaluation of whether this is a realistic threat to humanity. 
 
