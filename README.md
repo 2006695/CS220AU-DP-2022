@@ -1,13 +1,9 @@
 # CS220AU Digital Portfolio Template (2022)
-## Overview
-This GitHub repository is the template for the [CS220AU](https://github.com/khofstadter/CS220AU) assignment in 2022. It demonstrates minimalistic ideas for 
+## Findings
 
-- project management
-- web hosting with [GitHub Pages](https://pages.github.com/) 
-- web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
-- evaluation with the `assessment.md` and the `dp-checklist.md` files. 
-
-The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
+Over the last forty years the internet has grown and so has our reliance on it.
+As this reliance has gorwn, figures have found a way to capitalise on this and commodified the collection of our data.
+This collection of personal data has led to a personalised web experience, making internet use more streamlined and easier for users. However, at the same time this data has been utilised by organisations to not just predict human action but to control it.  This is what makes data collection an existential threat to humanity, not because it will wipe us out, but because it has the potential to wipe out our free-will.
 
 <br>
 
