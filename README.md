@@ -19,11 +19,6 @@ The portfolio you submit needs to contain the following:
 3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
 
 ## to do:
-- Interview advertising consultant
-- research link between digital identity, survaillance capitalism and suicide/self-harm
-- research digital totalitarianism
-- watch documentary recommended 
-- research cambridge analytica and how survaillance capitalism can lead to political control
 
 ## log:
 - 2022-10-18 created github account with student id
@@ -39,4 +34,12 @@ The portfolio you submit needs to contain the following:
 - 2022-11-28 researched PII and the use of cookies on the internet
 - 2022-11-28 read Nick Bostram's research paper on extestential risks
 - 2022-11-28 built presentation of progress so far
-- 2022-11-28
+- 2022-11-29 presented presentation of progress so far and discussed with class
+- 2022-12-03 researched key words including data surveillance and surveillance capitalism
+- 2022-12-07 updated research question using chap gpt
+- 2022-12-12 continued research, updating notes with further articles
+- 2022-12-18 continued research, used google scholar to find academic papers to reference
+- 2022-01-05 started to draft website 
+- 2022-01-08 continued draft website
+- 2022-01-10 spell and grammar checked draft
+- 2022-01-11 transferred draft to website and coded
