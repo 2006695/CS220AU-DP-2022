@@ -1,7 +1,7 @@
 # Data- The New Oil
 Can the increased adoption of digital identities enable the control and manipulation of personal data by powerful actors, and contribute to an existential threat to human rights and free-will on a global scale
 
-![](
+![](https://github.com/2006695/CS220AU-DP-2022/blob/main/assets/img/Image1.jpg)
 
 ## Abstract
 - It is almost impossible to function in the modern world without the use of the internet. This has led to the creation of large digital identities, through the use of different websites who track that use through digital surveillance. The amount of information now available online about an individual has been commodified by corporations who aim to use it to control and manipulate people. If it continues in the same way, this manipulation will lead to the removal of humanity’s free-will, posing an existential threat.
