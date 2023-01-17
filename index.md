@@ -8,11 +8,11 @@ Can the increased adoption of digital identities enable the control and manipula
 
 ## Table of Contents
 
-01 [Introduction](#01-introduction)
-02 [Definitions](#02-definitions)
-03 [The Growth of Digital Identities](#03-the-growth-of-digital-identities)
-04 [Data Surveillance](#04-data-surveillance)
-05 [Existential Threat?](#05-existential-threat)
+01 [Introduction](#01-introduction)  
+02 [Definitions](#02-definitions)  
+03 [The Growth of Digital Identities](#03-the-growth-of-digital-identities)  
+04 [Data Surveillance](#04-data-surveillance)  
+05 [Existential Threat?](#05-existential-threat)  
 06 [Conclusion](#06-conclusion)
 
 
