@@ -1,5 +1,5 @@
 # Data- The New Oil
-Can the increased adoption of digital identities enable the control and manipulation of personal data by powerful actors, and contribute to an existential threat to human rights and free-will on a global scale
+Can the increased adoption of digital identities enable the control and manipulation of personal data by powerful actors, and contribute to an existential threat to human rights and free-will on a global scale?
 
 ![](assets/img/Image1.jpg)
 
@@ -17,15 +17,15 @@ Can the increased adoption of digital identities enable the control and manipula
 
 
 ### 01-Introduction
-- This essay sets out to critically investigate the relationship between the growing reliance of digital identities and the potential of it leading to an existential threat to humanity, by causing the destruction of a desirable future. The desirable future being referred to throughout this essay is one in which humans have free will to make their own choices and decide their own future. This future is put at risk by the practice of data surveillance which has led to a surveillance based economy, where consumer information is the commodity that must be given in order to access the internet.  By the end of this essay, it will be possible to offer a critical evaluation of whether this is a realistic threat to humanity. 
+This essay sets out to critically investigate the relationship between the growing reliance of digital identities and the potential of it leading to an existential threat to humanity, by causing the destruction of a desirable future. The desirable future being referred to throughout this essay is one in which humans have free will to make their own choices and decide their own future. This future is put at risk by the practice of data surveillance which has led to a surveillance based economy, where consumer information is the commodity that must be given in order to access the internet.  By the end of this essay, it will be possible to offer a critical evaluation of whether this is a realistic threat to humanity. 
 
 ### 02-Definitions:
 
-- Data surveillance: [Includes](https://journals.sagepub.com/doi/full/10.1177/0268396218815559) overt direct collection, covert direct collection and covert indirect collection to take information from consumers whenever they are on the internet. Overt is data we willingly give a corporation we are interacting with. Covert is when we are directly interacting and they use cookies to take extra information. Covert indirect is when we’re on a completely different site and they use cookies to track us and share these with a third party.
+Data surveillance: [Includes](https://journals.sagepub.com/doi/full/10.1177/0268396218815559) overt direct collection, covert direct collection and covert indirect collection to take information from consumers whenever they are on the internet. Overt is data we willingly give a corporation we are interacting with. Covert is when we are directly interacting and they use cookies to take extra information. Covert indirect is when we’re on a completely different site and they use cookies to track us and share these with a third party.
 
-- Digital identities: [The sum of all](https://ieeexplore.ieee.org/abstract/document/1337889) the digitally available information about us. Including information such as, name, date of birth, address, email address and online habits.  
+Digital identities: [The sum of all](https://ieeexplore.ieee.org/abstract/document/1337889) the digitally available information about us. Including information such as, name, date of birth, address, email address and online habits.  
 
-- Existential threat: In this context I have used Nick Bostrom's [definition](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1758-5899.12002)‘An existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the premature and drastic destruction of its potential desirable future development.’  In this instance we will be looking at how manipulation of online data can be used to ‘tame’ human beings and how this is a drastic destruction of humanities potential.
+Existential threat: In this context I have used Nick Bostrom's [definition](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1758-5899.12002)‘An existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the premature and drastic destruction of its potential desirable future development.’  In this instance we will be looking at how manipulation of online data can be used to ‘tame’ human beings and how this is a drastic destruction of humanities potential.
 
 
 ### 03-The Growth of Digital Identities
