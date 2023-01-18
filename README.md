@@ -20,15 +20,6 @@ This website has only just begun to pull the thread of this massive topic. With 
 
 <br>
 
-## Portfolio items
-The portfolio you submit needs to contain the following:
-
-1. **website** (80% of your overall mark) exploring the theme given.
-2. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
-3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
-
-## to do:
-
 ## log:
 - 2022-10-18 created github account with student id
 - 2022-10-18 learnt different coding methods using mark down. created new repositories for notes.
@@ -52,3 +43,4 @@ The portfolio you submit needs to contain the following:
 - 2022-01-08 continued draft website
 - 2022-01-10 spell and grammar checked draft
 - 2022-01-11 transferred draft to website and coded
+- 2022-01-17 discussed website layout with Kris and made recommended changes
