@@ -25,7 +25,7 @@ Data surveillance: [Includes](https://journals.sagepub.com/doi/full/10.1177/0268
 
 Digital identities: [The sum of all](https://ieeexplore.ieee.org/abstract/document/1337889) the digitally available information about us. Including information such as, name, date of birth, address, email address and online habits.  
 
-Existential threat: In this context I have used Nick Bostrom's [definition](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1758-5899.12002)‘An existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the premature and drastic destruction of its potential desirable future development.’  In this instance we will be looking at how manipulation of online data can be used to ‘tame’ human beings and how this is a drastic destruction of humanities potential.
+Existential threat: In this context I have used Nick Bostrom's [definition](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1758-5899.12002) ‘An existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the premature and drastic destruction of its potential desirable future development.’  In this instance we will be looking at how manipulation of online data can be used to ‘tame’ human beings and how this is a drastic destruction of humanities potential.
 
 
 ## 03-The Growth of Digital Identities
@@ -53,9 +53,14 @@ However, this future is not determined for humanity. While humanity's attachment
 
 ## 07-Methodology 
 To begin I need to acknowledge the work that has been completed in seminars over the 12 weeks of Autumn Term. I do not want to go through week by week describing what I learned and how it was useful for this website, but the workshop style of the seminars allowed us to explore different ideas specific to our own projects and was invaluable in creating my final project.
+
 For my research I had the idea of focusing on data as a currency used to access the internet. I originally had this idea of data holding value when I saw Spotify offering a free £50 Google Nest in exchange for giving them more data.
+
 Once we were given the project of digital identities and existential threats there wasn’t a clear link between this and the topic I wanted to work on. I started research into my chosen area, with the hope that a link would become clear as I went deeper into the issue. This happened very quickly as I realised the extent to which companies were controlling individual behaviour through the online platform and how this could be seen as a threat to humanity’s future as a whole making it an existential threat by Nick Bostrom’s definition. 
+
 After I had an idea of how they all linked together I was struggling to phrase it in a way I was happy with in my research question. In order to do this I used [Chat GPT](https://chat.openai.com) which had been shown to us in class. I told the computer a vague description of what I wanted and then kept asking it to edit the results with different key words and phrases until I got a result I was happy with. 
 I knew I wanted to present my website in essay form as that is the format I use in my own discipline (history) and would therefore be most comfortable with. 
+
 To start my research, I first found articles that were on similar topics of cookie use on websites. This is not a field I am familiar with, so I was not sure on specific key words to use. Once I had started to read some general articles, I was able to find more specific key words such as: Data Cookies, Data Surveillance, Surveillance Capitalism and Behavioural Modification.
+
 Once I had completed by research and written my draft, I needed to format it into a website. To do this I used GitHub and followed the instructions given to us in class. After a discussion in class I decided to format my website as one page, with a table of contents allowing a viewer to navigate between sections. I believe this was the best format to complement my writing style. On this page I added images that I had used an image compressor to format, in order to make it more appealing to a reader.
