@@ -54,7 +54,7 @@ To measure my own progress, I filled in the table below using the above marking 
 <br>
 
 ## Peer-assessment
-To help measure my progress, I asked another student in my group for feedback on my work. Based on his/her feedback, I filled in the table below. <!-- move symbols -->
+i did not manage to get a peer-assessment done. I don't like to pass around the blame, but quite frankly it was very difficult to engage with my class cohort when none of them were willing to engage in the class. This was not the fault of the lecturer who tried every session to speak to different students and encourgaed us to engage with each other. The two times I did speak to other people in the class the first one said "I'm really not interested in forced conversation here" and the other just moaned about having to do work. I am not against teamwork and understand it is vital for most projects. I worked as part of a team in a high pressure enviroment for years and I work as part of a team daily in my volunteer work. However, I found this enviroment very frustrating to work in as I felt none of the other students were interested in working together to improve as a team. If any were they kept quiet about it.
 
 <br>
 
